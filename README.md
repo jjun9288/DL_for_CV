@@ -17,3 +17,9 @@
 ##### two layer net (Not finished)
 - Implementation of forward pass and backward pass
 - Training neural network to optimize the weight matrix
+
+### A4
+
+#### pytorch autograd and nn
+- Implementation of classification models using PyTorch
+- Implementation of ResNet using PyTorch
